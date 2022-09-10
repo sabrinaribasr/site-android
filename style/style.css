@@ -96,13 +96,13 @@ main {
 
 main h1 {
     color: var(--cor5);
-    font-family: var(--fonte-android);
+    font-family: var(--font-android);
     font-weight: normal;
     font-size: 1.8em;
 }
 
 main h2 {
-    font-family: var(--fonte-android);
+    font-family: var(--font-android);
     color: var(--cor4);
     font-size: 1.3em;
     font-weight: normal;
