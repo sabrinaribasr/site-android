@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2? family= Amatic+SC & family= Work+Sans:ital,wght@0,100;0,200;0,400;0,500;0,700;1,100;1,300 & display=trocar');
 
 @font-face {
-    font-family: 'Android';
+    font-family:'Android';
     src: url(../fontes/idroid.otf) format('opentype');
     font-weight: normal;
 }
